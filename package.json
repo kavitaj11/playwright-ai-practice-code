@@ -3,5 +3,8 @@
     "@playwright/test": "^1.54.1",
     "@types/node": "^24.1.0"
   },
-  "scripts": {}
+  "scripts": {},
+  "dependencies": {
+    "pdfkit": "^0.17.1"
+  }
 }
