@@ -5,6 +5,7 @@
   },
   "scripts": {},
   "dependencies": {
+    "dayjs": "^1.11.13",
     "pdfkit": "^0.17.1"
   }
 }
